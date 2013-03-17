@@ -1,6 +1,9 @@
 <div>
-  <p style="color:red;">
+  <p style="color:yellow;">
     <img src="/images/sling.jpg" align="right"/>
     <%= currentNode.headline %>
+  </p>
+  <p style="color:green;">
+  <%= currentNode.sidebar %>
   </p>
 </div>
